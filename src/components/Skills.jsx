@@ -120,7 +120,7 @@ const SkillList = styled.div`
   margin-bottom: 20px;
 `
 
-const SkillItem = styled(motion.div)`
+const SkillItem = styled.div`
   font-size: 16px;
   font-weight: 400;
   border: 0.1px solid #854CE6;
